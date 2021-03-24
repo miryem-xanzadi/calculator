@@ -5,6 +5,7 @@ Run:
 2) In Termanial Run: npm start
 
 
-![image](https://user-images.githubusercontent.com/72969665/112310081-c664be80-8cc1-11eb-952e-bb15b9a8af04.png)
+![image](https://user-images.githubusercontent.com/72969665/112311939-ded5d880-8cc3-11eb-84bc-f5b42b5ba438.png)
+
 
 
